@@ -1,4 +1,4 @@
-# GenAI University Projects Portfolio
+# GenAI Projects Portfolio
 
 Collection of 7 machine learning and generative AI projects built during my university GenAI course.
 
